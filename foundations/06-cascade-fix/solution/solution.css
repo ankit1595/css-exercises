@@ -32,7 +32,7 @@ div.text {
   Another solution would be keeping it in its original place and just chaining selectors, giving this rule a higher specificity:
 
   p.small-para {
-    font-size: 12px;
+    font-size: 14px;
   }
 */
 
